@@ -4,7 +4,6 @@
 #
 %define		pdir	MooseX
 %define		pnam	Object-Pluggable
-%include	/usr/lib/rpm/macros.perl
 Summary:	MooseX::Object::Pluggable - Make your classes pluggable
 Name:		perl-MooseX-Object-Pluggable
 Version:	0.0011
