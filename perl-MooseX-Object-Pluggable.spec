@@ -7,7 +7,7 @@
 Summary:	MooseX::Object::Pluggable - Make your classes pluggable
 Name:		perl-MooseX-Object-Pluggable
 Version:	0.0011
-Release:	2
+Release:	3
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/MooseX/%{pdir}-%{pnam}-%{version}.tar.gz
